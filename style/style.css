@@ -1,0 +1,14 @@
+body {
+    background-color: goldenrod;
+}
+
+p {
+    font-family: inherit;
+    font-size: 24px;
+    text-align: center;
+    text-justify: newspaper;
+}
+
+h1 {
+    color: darkslategrey;
+}
